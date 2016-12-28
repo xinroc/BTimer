@@ -35,5 +35,4 @@ DEFINES +=BTImer_d
 LIBDIR =$$PWD/../../run/lib
 LIBS +=-L$$LIBDIR -lboost_thread
 LIBS +=-L$$LIBDIR -lboost_system
-LIBS +=-L$$LIBDIR -lboost_chrono
-LIBS +=-L$$LIBDIR -lpthread
+
