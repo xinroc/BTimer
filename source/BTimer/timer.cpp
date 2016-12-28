@@ -1,4 +1,4 @@
-
+#define BOOST_CHRONO_HEADER_ONLY
 #include <boost/asio.hpp>
 #include <boost/chrono.hpp>
 #include <boost/shared_ptr.hpp>
